@@ -3,7 +3,7 @@
 // EXERCÍCIO 0A
 function soma(num2, num1) {
   // implemente sua lógica aqui
-  return num2 + num1
+  return num1 + num2
 }
 
 // EXERCÍCIO 0B
