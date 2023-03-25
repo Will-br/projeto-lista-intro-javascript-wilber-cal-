@@ -1,9 +1,9 @@
 // EXEMPLOS DE IMPLEMENTAÇÃO ---------------------------------------------------------------
 
 // EXERCÍCIO 0A
-function soma(num1, num2) {
+function soma(num2, num1) {
   // implemente sua lógica aqui
-  return num1 + num2
+  return num2 + num1
 }
 
 // EXERCÍCIO 0B
